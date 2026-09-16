@@ -206,7 +206,7 @@ function App() {
 
             <div className="hero-photo-card">
               <img
-                src="/public/Images/2.PNG"
+                src="/Images/2.PNG"
                 alt="Wedding couple photography"
               />
 
@@ -297,7 +297,7 @@ function App() {
 
           <div className="rohit-photo">
             <img
-              src="/public/Images/1.PNG"
+              src="/Images/1.PNG"
               alt="Rohit - Dream Capture photographer"
             />
 
@@ -472,7 +472,7 @@ function App() {
         <div className="why-image">
 
           <img
-            src="/public/Images/4.PNG"
+            src="/Images/4.PNG"
             alt="Photography detail"
           />
 
@@ -778,7 +778,7 @@ function App() {
             <div className="gift-product-image">
 
               <img
-                src="/public/Images/6.PNG"
+                src="/Images/6.PNG"
                 alt="Customized photo mug"
               />
 
@@ -817,7 +817,7 @@ function App() {
             <div className="gift-product-image">
 
               <img
-                src="/public/Images/3.PNG"
+                src="/Images/3.PNG"
                 alt="Customized photo frame"
               />
 
@@ -856,7 +856,7 @@ function App() {
             <div className="gift-product-image">
 
               <img
-                src="/public/Images/5.PNG"
+                src="/Images/5.PNG"
                 alt="Wall photo frame"
               />
 
